@@ -1,0 +1,22 @@
+
+Createing Azure Apim :-
+
+https://www.youtube.com/watch?v=tjkbic2hwdk
+
+Add API :-
+
+https://www.youtube.com/watch?v=7SGL1585vTo
+
+
+https://www.c-sharpcorner.com/article/protect-apis-with-security-headers-using-azure-api-management-policies/
+
+
+https://technicalblogs.sentientmindz.com/2017/04/16/manage-the-web-api-using-azure-api-management/
+
+Microsoft document of api managment
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies
+
+
+Azure api managment with .net core & Api
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0
