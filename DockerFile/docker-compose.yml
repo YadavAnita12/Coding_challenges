@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  DockerTestPOC:
+    image: ${DOCKER_REGISTRY-}dockertestpoc
+    build:
+      context: .
+      dockerfile: DockerTestPOC/Dockerfile
+      
